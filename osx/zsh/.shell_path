@@ -1,0 +1,6 @@
+# export PATH=/usr/local/bin/atom:$PATH
+export PATH=/usr/local/texlive/2017/bin/x86_64-darwin:$PATH
+export PATH=~/repos/builds/svn/llvm/bin:$PATH
+
+export CC=~/repos/builds/svn/llvm/bin/clang
+export CXX=~/repos/builds/svn/llvm/bin/clang++

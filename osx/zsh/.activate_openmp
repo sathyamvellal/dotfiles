@@ -1,0 +1,5 @@
+export PATH=~/repos/builds/svn/llvm/bin:$PATH
+export C_INCLUDE_PATH=~/repos/builds/svn/llvm/include/c++/v1:$C_INCLUDE_PATH
+export CPLUS_INCLUDE_PATH=~/repos/builds/svn/llvm/include/c++/v1:$CPLUS_INCLUDE_PATH
+export LIBRARY_PATH=~/repos/builds/svn/llvm/lib:$LIBRARY_PATH
+export DYLD_LIBRARY_PATH=~/repos/builds/svn/llvm/lib:$DYLD_LIBRARY_PATH
